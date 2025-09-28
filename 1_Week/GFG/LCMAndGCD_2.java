@@ -16,7 +16,7 @@ Explanation: LCM of 1 and 1 is 1, while their GCD is 1.
 link: https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1
 */
 
-class Solution {
+class LCMAndGCD_2 {
     public static int[] lcmAndGcd(int a, int b) {
         // code here
         // let us find gcd using iteration

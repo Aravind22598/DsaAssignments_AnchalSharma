@@ -15,10 +15,11 @@ Example 2:
 
 Input: num = 0
 Output: 0
+ Link :https://leetcode.com/problems/add-digits/
 
 */
 
-class Solution {
+class AddDigits_1 {
     public int addDigits(int n) {
         
         while(noOfDigits(sum(n))>1){

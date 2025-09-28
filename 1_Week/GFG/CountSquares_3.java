@@ -16,7 +16,7 @@ link: http://geeksforgeeks.org/problems/count-squares3649/1
 
 // User function Template for Java
 
-class Solution {
+class CountSquares_3 {
     static int countSquares(int n) {
         // code here
         int count=0;

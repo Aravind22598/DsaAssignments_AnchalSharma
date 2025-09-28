@@ -15,7 +15,7 @@ Input: n = 1
 Leranings:
 */
 
-class Solution {
+class PrimeNumber_1 {
     static boolean isPrime(int n) {
         // code here
         // handling special case 1
